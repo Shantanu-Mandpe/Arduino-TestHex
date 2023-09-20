@@ -1,0 +1,9 @@
+{
+  "cpu": {
+    "fqbn": "arduino:mbed_nicla:nicla_sense",
+    "name": "Arduino Nicla Sense ME",
+    "type": "serial"
+  },
+  "secrets": [],
+  "included_libs": []
+}
